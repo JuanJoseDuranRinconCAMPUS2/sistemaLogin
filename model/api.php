@@ -6,7 +6,6 @@
     }
     spl_autoload_register('autoload');
 
-    $res = new user("mrCarlos", "233");
-    echo $res -> getUser();
-    
+    $res = new usuarios("mrCarlos", "233", "../db.json");
+    var_dump($res-> getUser());
 ?>
