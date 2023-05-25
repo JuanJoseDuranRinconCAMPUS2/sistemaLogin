@@ -1,16 +1,16 @@
 {
-    "usuarios":[
+    "users":[
         {
-            "usuario": "fred",
-            "nombre": "Juan",
-            "contrasena": 1987,
-            "edad": 17
+            "user": "fred",
+            "name": "Juan",
+            "pwd": 1987,
+            "age": 17
         },
         {
-            "usuario": "mrCarlos",
-            "nombre": "Carlos",
-            "contrasena": 233,
-            "edad": 22
+            "user": "mrCarlos",
+            "name": "Carlos",
+            "pwd": 233,
+            "age": 22
         }
     ]
 }
